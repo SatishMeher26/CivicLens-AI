@@ -1,0 +1,18 @@
+[
+  "tests/test_ai_and_lifecycle.py::test_classification_ambiguous_fallback",
+  "tests/test_ai_and_lifecycle.py::test_classification_drainage_flooding",
+  "tests/test_ai_and_lifecycle.py::test_classification_roads_pothole",
+  "tests/test_ai_and_lifecycle.py::test_classification_streetlighting",
+  "tests/test_ai_and_lifecycle.py::test_duplicate_detection_distant_different_location",
+  "tests/test_ai_and_lifecycle.py::test_duplicate_detection_nearby_same_defect",
+  "tests/test_ai_and_lifecycle.py::test_e2e_api_flow",
+  "tests/test_ai_and_lifecycle.py::test_priority_scoring_critical_factors",
+  "tests/test_ai_and_lifecycle.py::test_priority_scoring_low_risk",
+  "tests/test_ai_and_lifecycle.py::test_routing_matrix",
+  "tests/test_ai_and_lifecycle.py::test_state_transitions_valid_and_invalid",
+  "tests/test_auth_and_rbac.py::test_authority_invitation_lifecycle",
+  "tests/test_auth_and_rbac.py::test_authority_logins_all_roles",
+  "tests/test_auth_and_rbac.py::test_citizen_registration_and_login",
+  "tests/test_auth_and_rbac.py::test_demo_accounts_provisioned",
+  "tests/test_auth_and_rbac.py::test_rbac_citizen_restricted_from_status_change"
+]
